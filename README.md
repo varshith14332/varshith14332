@@ -2,7 +2,7 @@
 
 🌟 About Me
 
-🎓 B.Tech 2nd-Year Student
+🎓 B.Tech 3rd-Year Student
 
 💡 Interested in coding, technology,research and innovation.
 
@@ -13,7 +13,7 @@
 
 💻 Skills
 
-Programming Languages: Python,React.js,Js,MySql,Firebase
+Programming Languages: Python,React.js,Js,MySql,Firebase,Typescript,Vite,Next.js,MongoDb,Node/Express.js,Tailwind css,Bootstrap css
 
 Areas of Interest: Web development,Blockchain,Astral physics
 
